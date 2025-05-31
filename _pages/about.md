@@ -72,4 +72,4 @@ Orthogonal graph neural networks<br />
 
 Service
 =====
-PC members, and reviewers for multiple journals and international conferences in machine learning and data science such as TKDD, TKDE, KDD and ICLR.
+PC members, and reviewers for multiple journals and international conferences in machine learning and data science such as TPAMI, TKDD, TKDE, KDD, NeurIPS and ICLR.

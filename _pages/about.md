@@ -53,7 +53,7 @@ Selected publication
 =====
 Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach<br />
 Shenglai Zeng, Pengfei He, <b>Kai Guo</b>, Tianqi Zheng, Hanqing Lu, Yue Xing, Hui Liu.<br />	
-<i>ACL-Main, 2025.</i><br /> (Corresponding Author)	
+<i>ACL-Main, 2025 (Corresponding Author)</i><br /> 
 
 Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective<br />
 <b>Kai Guo</b>, Hongzhi Wen, Wei Jin, Yaming Guo, Jiliang Tang, Yi Chang.<br />		
@@ -65,7 +65,7 @@ Yaming Guo*, <b>Kai Guo*</b>, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
 
 Orthogonal graph neural networks<br />
 <b>Kai Guo</b>, Kaixiong Zhou, Xia Hu, Yu Li, Yi Chang, Xin Wang.<br />		
-<i>AAAI, 2022.</i><br />
+<i>AAAI, 2022 (Oral)</i><br />
 
 
 <br />

@@ -52,7 +52,7 @@ News
 Selected publication
 =====
 Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach<br />
-Shenglai Zeng, Pengfei He, <b>Kai Guo*</b>, Tianqi Zheng, Hanqing Lu, Yue Xing, Hui Liu.<br />		
+Shenglai Zeng, Pengfei He, <b>Kai Guo</b>, Tianqi Zheng, Hanqing Lu, Yue Xing, Hui Liu.<br />	(Corresponding Author)	
 <i>ACL-Main, 2025.</i><br />
 
 Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective<br />

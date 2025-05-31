@@ -22,15 +22,17 @@ Email: guokai1 at msu.edu
 
 News
 =====
+**Apr. 2025:** Our Paper "Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach" is accepted by ACL-Main! [[pdf]](https://arxiv.org/pdf/2502.14100)
+
 **Mar. 2025:** New preprint - “Empowering GraphRAG with Knowledge Filtering and Integration” [[pdf]](https://arxiv.org/abs/2503.13804)
 
 **Mar. 2025:**  One paper on AI for Science, titled “Aligning Large Language Models and Geometric Deep Models for Protein Representation”, has been accepted by Patterns journal. [[pdf]](https://arxiv.org/abs/2411.05316)
 
-**Feb. 2025:** New preprint: Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach [[pdf]](https://arxiv.org/pdf/2502.14100)
-
 **Feb. 2025:**  New preprint studying the effectiveness of RAG vs. GraphRAG [[pdf]](https://arxiv.org/pdf/2502.11371)
 
 **Jan. 2025:**   New survey on Retrieval-Augmented Generation (RAG) with Graphs [[pdf]](https://arxiv.org/pdf/2501.00309)
+
+**Jul. 2024:** New preprint - "Learning on Graphs with Large Language Models (LLMs): A Deep Dive into Model Robustness" [[pdf]](https://arxiv.org/pdf/2407.12068)
 
 **May. 2024:** One paper accepted by KDD, 2024. [[pdf]](https://dl.acm.org/doi/10.1145/3637528.3671792) 
 
@@ -49,6 +51,10 @@ News
 
 Selected publication
 =====
+Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach<br />
+Shenglai Zeng, Pengfei He, <b>Kai Guo*</b>, Tianqi Zheng, Hanqing Lu, Yue Xing, Hui Liu.<br />		
+<i>ACL-Main, 2025.</i><br />
+
 Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective<br />
 <b>Kai Guo</b>, Hongzhi Wen, Wei Jin, Yaming Guo, Jiliang Tang, Yi Chang.<br />		
 <i>KDD, 2024.</i><br />

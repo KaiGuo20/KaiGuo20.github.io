@@ -22,7 +22,7 @@ Email: guokai1 at msu.edu
 
 News
 =====
-**Apr. 2025:** Our Paper "Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach" is accepted by ACL-Main! [[pdf]](https://arxiv.org/pdf/2502.14100)
+**Apr. 2025:** Our paper "Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach" is accepted by ACL-Main! [[pdf]](https://arxiv.org/pdf/2502.14100)
 
 **Mar. 2025:** New preprint - “Empowering GraphRAG with Knowledge Filtering and Integration” [[pdf]](https://arxiv.org/abs/2503.13804)
 

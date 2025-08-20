@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 <ul>
-<li>CAP: Co-Adversarial Perturbation on Weights and Features for Improving Generalization of Graph Neural Networks<br />
-Haotian Xue, Kaixiong Zhou, Tianlong Chen, <b>Kai Guo</b>, Xia Hu, Yi Chang, Xin Wang<br /></li>
+<li>Learning on Graphs with Large Language Models (LLMs): A Deep Dive into Model Robustness<br />
+<b>Kai Guo*</b>, Zewen Liu*, Zhikai Chen, Hongzhi Wen, Wei Jin, Jiliang Tang, Yi Chang<br /></li>
 </ul>
 
 

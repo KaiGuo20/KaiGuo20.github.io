@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 <ul>
-<li>Learning on Graphs with Large Language Models (LLMs): A Deep Dive into Model Robustness [[pdf]](https://arxiv.org/pdf/2407.12068)<br />
-<b>Kai Guo*</b>, Zewen Liu*, Zhikai Chen, Hongzhi Wen, Wei Jin, Jiliang Tang, Yi Chang<br /></li>
+  <li>
+    Learning on Graphs with Large Language Models (LLMs): A Deep Dive into Model Robustness
+    [<a href="https://arxiv.org/pdf/2407.12068">pdf</a>] <br />
+    <b>Kai Guo*</b>, Zewen Liu*, Zhikai Chen, Hongzhi Wen, Wei Jin, Jiliang Tang, Yi Chang
+  </li>
 </ul>
 
 

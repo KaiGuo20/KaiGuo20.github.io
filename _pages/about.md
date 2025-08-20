@@ -58,7 +58,7 @@ Selected publication
 =====
 Empowering GraphRAG with Knowledge Filtering and Integration<br />
 <b>Kai Guo</b>, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang.<br />	
-<i>EMNLP, 2025 
+<i>EMNLP, 2025</i><br />
 
 Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach<br />
 Shenglai Zeng, Pengfei He, <b>Kai Guo<sup>†</sup></b>, Tianqi Zheng, Hanqing Lu, Yue Xing, Hui Liu.<br />	

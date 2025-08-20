@@ -1,4 +1,3 @@
-See full list at [Google Scholar](https://scholar.google.com/citations?user=v6jYru8AAAAJ&hl=zh-CN).
 ---
 layout: archive
 title: "Preprint"
@@ -14,6 +13,9 @@ Haotian Xue, Kaixiong Zhou, Tianlong Chen, <b>Kai Guo</b>, Xia Hu, Yi Chang, Xin
 
 
 ## Conference/Journal Papers (* indicates equal contributions)
+
+See full list at [Google Scholar](https://scholar.google.com/citations?user=v6jYru8AAAAJ&hl=zh-CN).
+
 <ul>
 <li>Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective<br />
 <b>Kai Guo</b>, Hongzhi Wen, Wei Jin, Yaming Guo, Jiliang Tang, Yi Chang.<br />		

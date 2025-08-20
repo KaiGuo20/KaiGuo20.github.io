@@ -22,6 +22,8 @@ Email: guokai1 at msu.edu
 
 News
 =====
+**Aug. 2025:** Our paper “Empowering GraphRAG with Knowledge Filtering and Integration” is accepted by EMNLP-Main![[pdf]](https://arxiv.org/abs/2503.13804)
+
 **Jul. 2025:** New preprint! - “From Sequence to Structure: Uncovering Substructure
 Reasoning in Transformers” [[pdf]](https://arxiv.org/pdf/2507.10435)
 
@@ -54,6 +56,10 @@ Reasoning in Transformers” [[pdf]](https://arxiv.org/pdf/2507.10435)
 
 Selected publication
 =====
+Empowering GraphRAG with Knowledge Filtering and Integration<br />
+<b>Kai Guo</b>, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang.<br />	
+<i>EMNLP, 2025 
+
 Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach<br />
 Shenglai Zeng, Pengfei He, <b>Kai Guo</b>, Tianqi Zheng, Hanqing Lu, Yue Xing, Hui Liu.<br />	
 <i>ACL, 2025 (Corresponding Author)</i><br /> 

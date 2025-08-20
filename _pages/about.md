@@ -61,7 +61,7 @@ Empowering GraphRAG with Knowledge Filtering and Integration<br />
 <i>EMNLP, 2025 
 
 Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach<br />
-Shenglai Zeng, Pengfei He, <b>Kai Guo†</b>, Tianqi Zheng, Hanqing Lu, Yue Xing, Hui Liu.<br />	
+Shenglai Zeng, Pengfei He, <b>Kai Guo<sup>†</sup></b>, Tianqi Zheng, Hanqing Lu, Yue Xing, Hui Liu.<br />	
 <i>ACL, 2025 (Corresponding Author)</i><br /> 
 
 Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective<br />

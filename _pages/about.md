@@ -22,6 +22,8 @@ Email: guokai1 at msu.edu
 
 News
 =====
+**Sep. 2025:** Our paper “From Sequence to Structure: Uncovering Substructure Reasoning in TransformersPre” is accepted by NeurIPS! [[pdf]](https://arxiv.org/pdf/2507.10435?)
+
 **Aug. 2025:** Our paper “Empowering GraphRAG with Knowledge Filtering and Integration” is accepted by EMNLP-Main! [[pdf]](https://arxiv.org/abs/2503.13804)
 
 **Jul. 2025:** New preprint! - “From Sequence to Structure: Uncovering Substructure
@@ -56,6 +58,11 @@ Reasoning in Transformers” [[pdf]](https://arxiv.org/pdf/2507.10435)
 
 Selected publication
 =====
+From Sequence to Structure: Uncovering Substructure
+Reasoning in Transformers<br />
+Xinnan Dai, Kai Yang, Jay Revolinsky, <b>Kai Guo</b>, Aoran Wang, Bohang Zhang, Jiliang Tang.<br />	
+<i>NeurIPS, 2025</i><br />
+
 Empowering GraphRAG with Knowledge Filtering and Integration<br />
 <b>Kai Guo</b>, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang.<br />	
 <i>EMNLP, 2025</i><br />

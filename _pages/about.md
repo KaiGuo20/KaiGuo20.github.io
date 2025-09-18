@@ -22,7 +22,7 @@ Email: guokai1 at msu.edu
 
 News
 =====
-**Sep. 2025:** Our paper “From Sequence to Structure: Uncovering Substructure Reasoning in TransformersPre” is accepted by NeurIPS! [[pdf]](https://arxiv.org/pdf/2507.10435?)
+**Sep. 2025:** Our paper “From Sequence to Structure: Uncovering Substructure Reasoning in Transformers” is accepted by NeurIPS! [[pdf]](https://arxiv.org/pdf/2507.10435?)
 
 **Aug. 2025:** Our paper “Empowering GraphRAG with Knowledge Filtering and Integration” is accepted by EMNLP-Main! [[pdf]](https://arxiv.org/abs/2503.13804)
 

@@ -22,6 +22,8 @@ Email: guokai1 at msu.edu
 
 News
 =====
+**Sep. 2025:** Our paper “Uncovering Graph Reasoning in Decoder-only Transformers with Circuit Tracing” is accepted by NeurIPS 2025 Workshop on Efficient Reasoning! [[pdf]](https://arxiv.org/pdf/2509.20336)
+
 **Sep. 2025:** Our paper “From Sequence to Structure: Uncovering Substructure Reasoning in Transformers” is accepted by NeurIPS! [[pdf]](https://arxiv.org/pdf/2507.10435?)
 
 **Aug. 2025:** Our paper “Empowering GraphRAG with Knowledge Filtering and Integration” is accepted by EMNLP-Main! [[pdf]](https://arxiv.org/abs/2503.13804)

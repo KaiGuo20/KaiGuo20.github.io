@@ -22,6 +22,11 @@ Email: guokai1 at msu.edu
 
 News
 =====
+**Oct. 2025:** New preprint! - “Reasoning by Exploration: A Unified Approach to Retrieval and
+Generation over Graphs” [[pdf]](https://arxiv.org/pdf/2510.07484)
+
+**Oct. 2025:** New preprint! - “GraphGhost: Tracing Structures Behind Large Language Models” [[pdf]](https://arxiv.org/pdf/2510.08613)
+
 **Sep. 2025:** New preprint! - “Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG” [[pdf]](https://arxiv.org/pdf/2509.25530)
 
 **Sep. 2025:** Our paper “Uncovering Graph Reasoning in Decoder-only Transformers with Circuit Tracing” is accepted by NeurIPS 2025 Workshop on Efficient Reasoning! [[pdf]](https://arxiv.org/pdf/2509.20336)

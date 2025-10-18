@@ -70,7 +70,7 @@ Selected publication
 From Sequence to Structure: Uncovering Substructure
 Reasoning in Transformers<br />
 Xinnan Dai, Kai Yang, Jay Revolinsky, <b>Kai Guo</b>, Aoran Wang, Bohang Zhang, Jiliang Tang.<br />	
-<i>NeurIPS, 2025</i><br />
+<i>NeurIPS, 2025 (Corresponding Author)</i><br />
 
 Empowering GraphRAG with Knowledge Filtering and Integration<br />
 <b>Kai Guo</b>, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang.<br />	

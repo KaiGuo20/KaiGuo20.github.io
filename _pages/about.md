@@ -56,7 +56,7 @@ Reasoning in Transformers” [[pdf]](https://arxiv.org/pdf/2507.10435)
 
 **Aug. 2023:**  One paper accepted by Information Sciences, 2023. -->
 
-**Jun. 2023:**  Begin my visiting at MSU！
+**Jun. 2023:**  Begin my visiting at MSU.
 
 **Apr. 2023:**  One paper accepted by ICML, 2023 [[pdf]](https://proceedings.mlr.press/v202/guo23b/guo23b.pdf) 
 

@@ -29,7 +29,7 @@ Generation over Graphs” [[pdf]](https://arxiv.org/pdf/2510.07484)
 
 **Sep. 2025:** New preprint! - “Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG” [[pdf]](https://arxiv.org/pdf/2509.25530)
 
-**Sep. 2025:** Our paper “Uncovering Graph Reasoning in Decoder-only Transformers with Circuit Tracing” is accepted by NeurIPS 2025 Workshop on Efficient Reasoning! [[pdf]](https://arxiv.org/pdf/2509.20336)
+**Sep. 2025:** Our paper “Uncovering Graph Reasoning in Decoder-only Transformers with Circuit Tracing” is accepted by NeurIPS 2025 Workshop on Efficient Reasoning (<span style="color:red;">Spotlight</span>)! [[pdf]](https://arxiv.org/pdf/2509.20336)
 
 **Sep. 2025:** Our paper “From Sequence to Structure: Uncovering Substructure Reasoning in Transformers” is accepted by NeurIPS! [[pdf]](https://arxiv.org/pdf/2507.10435?)
 
@@ -90,7 +90,7 @@ Yaming Guo*, <b>Kai Guo*</b>, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
 
 Orthogonal graph neural networks<br />
 <b>Kai Guo</b>, Kaixiong Zhou, Xia Hu, Yu Li, Yi Chang, Xin Wang.<br />		
-<i>AAAI, 2022 (Oral)</i><br />
+<i>AAAI, 2022 (<span style="color:red;">Oral</span>)</i><br />
 
 
 <br />

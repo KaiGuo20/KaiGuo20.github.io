@@ -22,7 +22,7 @@ Email: guokai1 at msu.edu
 
 News
 =====
-**Dec. 2025:** Our paper “A bioinspired neuromorphic tactile system: Merging MXene nanosheet sensors and MXene quantum dots memristor” is accepted by Nano Research! 
+
 
 **Oct. 2025:** New preprint! - “Reasoning by Exploration: A Unified Approach to Retrieval and
 Generation over Graphs” [[pdf]](https://arxiv.org/pdf/2510.07484)

@@ -22,7 +22,7 @@ Email: guokai1 at msu.edu
 
 News
 =====
-
+**Jan. 2026:** Our paper “Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs” is accepted by WWW! [[pdf]](https://arxiv.org/pdf/2510.07484)
 
 **Oct. 2025:** New preprint! - “Reasoning by Exploration: A Unified Approach to Retrieval and
 Generation over Graphs” [[pdf]](https://arxiv.org/pdf/2510.07484)
@@ -69,6 +69,10 @@ Reasoning in Transformers” [[pdf]](https://arxiv.org/pdf/2507.10435)
 
 Selected publication
 =====
+Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs<br />
+Haoyu Han, <b>Kai Guo</b>, Harry Shomer, Yu Wang, Yucheng Chu, Hang Li, Li Ma, Jiliang Tang.<br />	
+<i>WWW, 2026</i><br />
+
 From Sequence to Structure: Uncovering Substructure
 Reasoning in Transformers<br />
 Xinnan Dai, Kai Yang, Jay Revolinsky, <b>Kai Guo</b>, Aoran Wang, Bohang Zhang, Jiliang Tang.<br />	

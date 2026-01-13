@@ -24,6 +24,8 @@ News
 =====
 **Jan. 2026:** Our paper “Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs” is accepted by WWW! [[pdf]](https://arxiv.org/pdf/2510.07484)
 
+**Dec. 2025:** Our paper “A bioinspired neuromorphic tactile system: Merging MXene nanosheet sensors and MXene quantum dots memristor” is accepted by Nano Research! [[pdf]](https://www.sciopen.com/article/10.26599/NR.2026.94908337)
+
 **Oct. 2025:** New preprint! - “Reasoning by Exploration: A Unified Approach to Retrieval and
 Generation over Graphs” [[pdf]](https://arxiv.org/pdf/2510.07484)
 

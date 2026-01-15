@@ -73,7 +73,7 @@ Selected publication
 =====
 Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs<br />
 Haoyu Han, <b>Kai Guo</b>, Harry Shomer, Yu Wang, Yucheng Chu, Hang Li, Li Ma, Jiliang Tang.<br />	
-<i>WWW, 2026</i><br />
+<i>WWW, 2026 (Corresponding Author)</i><br />
 
 From Sequence to Structure: Uncovering Substructure
 Reasoning in Transformers<br />

@@ -56,7 +56,8 @@ News
 **Jan. 2025:** New survey on Retrieval-Augmented Generation (RAG) with Graphs [[pdf]](https://arxiv.org/pdf/2501.00309)
 
 <details>
-<summary><b>Show news before 2025</b></summary>
+  <summary><b>Show news before 2025</b></summary>
+  <div markdown="1">
 
 **Jul. 2024:** New preprint - "Learning on Graphs with Large Language Models (LLMs): A Deep Dive into Model Robustness" [[pdf]](https://arxiv.org/pdf/2407.12068)
 
@@ -68,6 +69,7 @@ News
 
 **Jun. 2022:** One paper accepted by AAAI, 2022 (Oral 4.5%) [[pdf]](https://cdn.aaai.org/ojs/20316/20316-13-24329-1-2-20220628.pdf)
 
+  </div>
 </details>
 
 <br />

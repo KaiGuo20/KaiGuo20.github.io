@@ -22,18 +22,16 @@ Email: guokai1 at msu.edu
 
 News
 =====
-**Feb. 2026:** New preprint! - “Fix Before Search: Benchmarking Agentic Query Visual Pre-processing in
-Multimodal Retrieval-augmented Generation” [[pdf]](https://arxiv.org/pdf/2602.13179)
 
-**Feb. 2026:** New preprint! - “Attn-GS: Attention-Guided Context Compression for Efficient Personalized
-LLMs” [[pdf]](https://arxiv.org/pdf/2602.07778)
+**Feb. 2026:** New preprint! - “Fix Before Search: Benchmarking Agentic Query Visual Pre-processing in Multimodal Retrieval-augmented Generation” [[pdf]](https://arxiv.org/pdf/2602.13179)
+
+**Feb. 2026:** New preprint! - “Attn-GS: Attention-Guided Context Compression for Efficient Personalized LLMs” [[pdf]](https://arxiv.org/pdf/2602.07778)
 
 **Jan. 2026:** Our paper “Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs” is accepted by WWW! [[pdf]](https://arxiv.org/pdf/2510.07484)
 
 **Dec. 2025:** Our paper “A bioinspired neuromorphic tactile system: Merging MXene nanosheet sensors and MXene quantum dots memristor” is accepted by Nano Research! [[pdf]](https://www.sciopen.com/article/10.26599/NR.2026.94908337)
 
-**Oct. 2025:** New preprint! - “Reasoning by Exploration: A Unified Approach to Retrieval and
-Generation over Graphs” [[pdf]](https://arxiv.org/pdf/2510.07484)
+**Oct. 2025:** New preprint! - “Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs” [[pdf]](https://arxiv.org/pdf/2510.07484)
 
 **Oct. 2025:** New preprint! - “GraphGhost: Tracing Structures Behind Large Language Models” [[pdf]](https://arxiv.org/pdf/2510.08613)
 
@@ -45,33 +43,32 @@ Generation over Graphs” [[pdf]](https://arxiv.org/pdf/2510.07484)
 
 **Aug. 2025:** Our paper “Empowering GraphRAG with Knowledge Filtering and Integration” is accepted by EMNLP-Main! [[pdf]](https://arxiv.org/abs/2503.13804)
 
-**Jul. 2025:** New preprint! - “From Sequence to Structure: Uncovering Substructure
-Reasoning in Transformers” [[pdf]](https://arxiv.org/pdf/2507.10435)
+**Jul. 2025:** New preprint! - “From Sequence to Structure: Uncovering Substructure Reasoning in Transformers” [[pdf]](https://arxiv.org/pdf/2507.10435)
 
 **Apr. 2025:** Our paper "Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach" is accepted by ACL-Main! [[pdf]](https://arxiv.org/pdf/2502.14100)
 
 **Mar. 2025:** New preprint - “Empowering GraphRAG with Knowledge Filtering and Integration” [[pdf]](https://arxiv.org/abs/2503.13804)
 
-**Mar. 2025:**  One paper on AI for Science, titled “Aligning Large Language Models and Geometric Deep Models for Protein Representation”, has been accepted by Cell Patterns journal. [[pdf]](https://arxiv.org/abs/2411.05316)
+**Mar. 2025:** One paper on AI for Science, titled “Aligning Large Language Models and Geometric Deep Models for Protein Representation”, has been accepted by Cell Patterns journal. [[pdf]](https://arxiv.org/abs/2411.05316)
 
-**Feb. 2025:**  New preprint studying the effectiveness of RAG vs. GraphRAG [[pdf]](https://arxiv.org/pdf/2502.11371)
+**Feb. 2025:** New preprint studying the effectiveness of RAG vs. GraphRAG [[pdf]](https://arxiv.org/pdf/2502.11371)
 
-**Jan. 2025:**   New survey on Retrieval-Augmented Generation (RAG) with Graphs [[pdf]](https://arxiv.org/pdf/2501.00309)
+**Jan. 2025:** New survey on Retrieval-Augmented Generation (RAG) with Graphs [[pdf]](https://arxiv.org/pdf/2501.00309)
+
+<details>
+<summary><b>Show news before 2025</b></summary>
 
 **Jul. 2024:** New preprint - "Learning on Graphs with Large Language Models (LLMs): A Deep Dive into Model Robustness" [[pdf]](https://arxiv.org/pdf/2407.12068)
 
-**May. 2024:** One paper accepted by KDD, 2024. [[pdf]](https://dl.acm.org/doi/10.1145/3637528.3671792) 
+**May. 2024:** One paper accepted by KDD, 2024. [[pdf]](https://dl.acm.org/doi/10.1145/3637528.3671792)
 
-<!-- **Dec. 2023:** One paper accepted by Information Sciences, 2023. 
+**Jun. 2023:** Begin my visiting at MSU.
 
-**Aug. 2023:**  One paper accepted by Information Sciences, 2023. -->
+**Apr. 2023:** One paper accepted by ICML, 2023 [[pdf]](https://proceedings.mlr.press/v202/guo23b/guo23b.pdf)
 
-**Jun. 2023:**  Begin my visiting at MSU.
+**Jun. 2022:** One paper accepted by AAAI, 2022 (Oral 4.5%) [[pdf]](https://cdn.aaai.org/ojs/20316/20316-13-24329-1-2-20220628.pdf)
 
-**Apr. 2023:**  One paper accepted by ICML, 2023 [[pdf]](https://proceedings.mlr.press/v202/guo23b/guo23b.pdf) 
-
-**Jun. 2022:**  One paper accepted by AAAI, 2022 (Oral 4.5%) [[pdf]](https://cdn.aaai.org/ojs/20316/20316-13-24329-1-2-20220628.pdf)
-
+</details>
 
 <br />
 

@@ -22,6 +22,7 @@ Email: guokai1 at msu.edu
 
 News
 =====
+**Apr.. 2026:** Our paper "Attn-GS: Attention-Guided Context Compression for Efficient Personalized LLMs" is accepted by the ACL 2026 Main Conference!
 
 **Feb. 2026:** New preprint! - “Fix Before Search: Benchmarking Agentic Query Visual Pre-processing in Multimodal Retrieval-augmented Generation” [[pdf]](https://arxiv.org/pdf/2602.13179)
 
@@ -76,6 +77,10 @@ News
 
 Selected publication
 =====
+Attn-GS: Attention-Guided Context Compression for Efficient Personalized LLMs<br />
+Shenglai Zeng, Tianqi Zheng, Chuan Tian, Dante Everaert, Yau-Shian Wang, Yupin Huang, Michael J. Morais, Rohit Patki, Jinjin Tian, Xinnan Dai, <b>Kai Guo</b>, Monica Xiao Cheng, Hui Liu.<br />	
+<i>ACL, 2026</i><br />
+
 Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs<br />
 Haoyu Han, <b>Kai Guo</b>, Harry Shomer, Yu Wang, Yucheng Chu, Hang Li, Li Ma, Jiliang Tang.<br />	
 <i>WWW, 2026 (Corresponding Author)</i><br />

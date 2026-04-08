@@ -22,7 +22,7 @@ Email: guokai1 at msu.edu
 
 News
 =====
-**Apr.. 2026:** Our paper "Attn-GS: Attention-Guided Context Compression for Efficient Personalized LLMs" is accepted by the ACL 2026 Main Conference!
+**Apr. 2026:** Our paper "Attn-GS: Attention-Guided Context Compression for Efficient Personalized LLMs" is accepted by the ACL 2026 Main Conference!
 
 **Feb. 2026:** New preprint! - “Fix Before Search: Benchmarking Agentic Query Visual Pre-processing in Multimodal Retrieval-augmented Generation” [[pdf]](https://arxiv.org/pdf/2602.13179)
 

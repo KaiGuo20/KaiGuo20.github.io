@@ -79,7 +79,7 @@ Selected publication
 =====
 Attn-GS: Attention-Guided Context Compression for Efficient Personalized LLMs<br />
 Shenglai Zeng, Tianqi Zheng, Chuan Tian, Dante Everaert, Yau-Shian Wang, Yupin Huang, Michael J. Morais, Rohit Patki, Jinjin Tian, Xinnan Dai, <b>Kai Guo</b>, Monica Xiao Cheng, Hui Liu.<br />	
-<i>ACL, 2026</i><br />
+<i>ACL, 2026 (Corresponding Author)</i><br />
 
 Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs<br />
 Haoyu Han, <b>Kai Guo</b>, Harry Shomer, Yu Wang, Yucheng Chu, Hang Li, Li Ma, Jiliang Tang.<br />	

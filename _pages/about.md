@@ -13,9 +13,15 @@ Before that, I got my Ph.D. degree from the Department of Artificial Intelligenc
 working with [Prof. Yi Chang](http://www.yichang-cs.com/). 
 
 
-My research interests focus on developing efficient, trustworthy, and application-driven machine learning algorithms, particularly in Graph Learning, Information Retrieval, and AI for Science.
+My research centers on Graph Learning, while also exploring Information Retrieval, graph for large language models, and AI for Science, with an emphasis on efficiency, trustworthiness, and practical impact.
 
-Email: guokai1 at msu.edu 
+<a href="https://scholar.google.com/citations?user=LSKpy2cAAAAJ&hl=zh-CN" target="_blank">
+  <i class="ai ai-google-scholar ai-2x"></i>
+</a>
+&nbsp;
+<a href="mailto:guokai1@msu.edu">
+  <i class="fas fa-envelope ai-2x"></i>
+</a>
 
 
 <br />

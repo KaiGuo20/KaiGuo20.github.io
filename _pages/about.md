@@ -22,6 +22,10 @@ Email: guokai1 at msu.edu
 
 News
 =====
+**Mar. 2026:** Our paper "Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation" is accepted by ICML 2026
+
+**Mar. 2026:** Our paper "When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression" is accepted by ICML 2026
+
 **Apr. 2026:** Our paper "Attn-GS: Attention-Guided Context Compression for Efficient Personalized LLMs" is accepted by the ACL 2026 Main Conference!
 
 **Feb. 2026:** New preprint! - “Fix Before Search: Benchmarking Agentic Query Visual Pre-processing in Multimodal Retrieval-augmented Generation” [[pdf]](https://arxiv.org/pdf/2602.13179)
@@ -77,6 +81,14 @@ News
 
 Selected publication
 =====
+Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation<br />
+Shenglai Zeng*, Jiankun Zhang*, <b>Kai Guo</b>, Xinnan Dai, Hui Liu, Jiliang Tang, Yi Chang.<br />	
+<i>ICML, 2026 </i><br />
+
+When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression<br />
+Xinnan Dai, Kai Yang, Cheng Luo, Shenglai Zeng, <b>Kai Guo</b>, Jiliang Tang.<br />	
+<i>ICML, 2026 </i><br />
+
 Attn-GS: Attention-Guided Context Compression for Efficient Personalized LLMs<br />
 Shenglai Zeng, Tianqi Zheng, Chuan Tian, Dante Everaert, Yau-Shian Wang, Yupin Huang, Michael J. Morais, Rohit Patki, Jinjin Tian, Xinnan Dai, <b>Kai Guo</b>, Monica Xiao Cheng, Hui Liu.<br />	
 <i>ACL, 2026 (Corresponding Author)</i><br />

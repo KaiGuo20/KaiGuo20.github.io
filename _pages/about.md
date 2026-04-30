@@ -13,7 +13,7 @@ Before that, I got my Ph.D. degree from the Department of Artificial Intelligenc
 working with [Prof. Yi Chang](http://www.yichang-cs.com/). 
 
 
-My research centers on Graph Learning, while also exploring Information Retrieval, graph for large language models, and AI for Science, with an emphasis on efficiency, trustworthiness, and practical impact.
+My research centers on Graph Learning, while also exploring Information Retrieval, Graph for Large Language Models, and AI for Science, with an emphasis on efficiency, trustworthiness, and practical impact.
 
 <p>
   <a href="https://scholar.google.com/citations?user=你的ScholarID"

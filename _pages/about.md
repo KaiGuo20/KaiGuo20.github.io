@@ -15,13 +15,19 @@ working with [Prof. Yi Chang](http://www.yichang-cs.com/).
 
 My research centers on Graph Learning, while also exploring Information Retrieval, graph for large language models, and AI for Science, with an emphasis on efficiency, trustworthiness, and practical impact.
 
-<a href="https://scholar.google.com/citations?user=LSKpy2cAAAAJ&hl=zh-CN" target="_blank">
-  <i class="ai ai-google-scholar ai-2x"></i>
-</a>
-&nbsp;
-<a href="mailto:guokai1@msu.edu">
-  <i class="fas fa-envelope ai-2x"></i>
-</a>
+<p>
+  <a href="https://scholar.google.com/citations?user=你的ScholarID"
+     target="_blank"
+     style="color: black; text-decoration: none; margin-right: 14px;">
+    <i class="ai ai-google-scholar ai-2x" style="vertical-align: middle;"></i>
+  </a>
+
+  <a href="mailto:guokai1@msu.edu"
+     style="color: black; text-decoration: none;">
+    <i class="fas fa-envelope ai-2x" style="vertical-align: middle; margin-right: 6px;"></i>
+    <span style="vertical-align: middle;">guokai1@msu.edu</span>
+  </a>
+</p>
 
 
 <br />

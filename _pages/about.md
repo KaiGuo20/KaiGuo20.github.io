@@ -112,7 +112,7 @@ Shenglai Zeng, Tianqi Zheng, Chuan Tian, Dante Everaert, Yau-Shian Wang, Yupin H
 <i>ACL, 2026</i><br />
 
 <strong>Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs</strong><br />
-Haoyu Han, <b>Kai Guo<sup>#</sup></b>, Harry Shomer, Yu Wang, Yucheng Chu, Hang Li, <b>Li Ma<sup>#</sup></b>, Jiliang Tang.<br />	
+Haoyu Han, <b>Kai Guo<sup>#</sup></b>, Harry Shomer, Yu Wang, Yucheng Chu, Hang Li, Li Ma<sup>#</sup>, Jiliang Tang.<br />	
 <i>WWW, 2026 </i><br />
 
 <strong>From Sequence to Structure: Uncovering Substructure

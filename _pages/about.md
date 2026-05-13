@@ -91,8 +91,8 @@ News
 
 <br />
 
-<h1 style="font-size: 2.2rem; font-weight: 700; margin-bottom: 0.4rem;">
-  Selected publication <sup>*</sup><sup>#</sup>
+<h1 style="font-size: 1.7rem; font-weight: 700; margin-bottom: 0.4rem;">
+  Selected publication
 </h1>
 
 <p style="margin-top: 0; font-size: 0.95rem;">

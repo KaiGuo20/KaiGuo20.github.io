@@ -100,7 +100,7 @@ News
 </p>
 
 Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation<br />
-Shenglai Zeng<sup>*</sup>, Jiankun Zhang<sup>*</sup>, <b>Kai Guo<sup>#</sup></b>, Xinnan Dai, Hui Liu, Jiliang Tang, Yi Chang.<br />
+Shenglai Zeng*, Jiankun Zhang*, <b>Kai Guo<sup>#</sup></b>, Xinnan Dai, Hui Liu, Jiliang Tang, Yi Chang.<br />
 <i>ICML, 2026</i><br />
 
 When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression<br />
@@ -112,21 +112,21 @@ Shenglai Zeng, Tianqi Zheng, Chuan Tian, Dante Everaert, Yau-Shian Wang, Yupin H
 <i>ACL, 2026</i><br />
 
 Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs<br />
-Haoyu Han, <b>Kai Guo</b>, Harry Shomer, Yu Wang, Yucheng Chu, Hang Li, Li Ma, Jiliang Tang.<br />	
-<i>WWW, 2026 (Corresponding Author)</i><br />
+Haoyu Han, <b>Kai Guo<sup>#</sup></b>, Harry Shomer, Yu Wang, Yucheng Chu, Hang Li, <b>Li Ma<sup>#</sup></b>, Jiliang Tang.<br />	
+<i>WWW, 2026 </i><br />
 
 From Sequence to Structure: Uncovering Substructure
 Reasoning in Transformers<br />
-Xinnan Dai, Kai Yang, Jay Revolinsky, <b>Kai Guo</b>, Aoran Wang, Bohang Zhang, Jiliang Tang.<br />	
-<i>NeurIPS, 2025 (Corresponding Author)</i><br />
+Xinnan Dai, Kai Yang, Jay Revolinsky, <b>Kai Guo<sup>#</sup></b>, Aoran Wang, Bohang Zhang, Jiliang Tang.<br />	
+<i>NeurIPS, 2025 </i><br />
 
 Empowering GraphRAG with Knowledge Filtering and Integration<br />
 <b>Kai Guo</b>, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang.<br />	
 <i>EMNLP, 2025</i><br />
 
 Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach<br />
-Shenglai Zeng, Pengfei He, <b>Kai Guo<sup>†</sup></b>, Tianqi Zheng, Hanqing Lu, Yue Xing, Hui Liu.<br />	
-<i>ACL, 2025 (Corresponding Author)</i><br /> 
+Shenglai Zeng, Pengfei He, <b>Kai Guo<sup>#</sup></b>, Tianqi Zheng, Hanqing Lu, Yue Xing, Hui Liu.<br />	
+<i>ACL, 2025 </i><br /> 
 
 Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective<br />
 <b>Kai Guo</b>, Hongzhi Wen, Wei Jin, Yaming Guo, Jiliang Tang, Yi Chang.<br />		

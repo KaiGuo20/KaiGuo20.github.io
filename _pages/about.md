@@ -92,21 +92,18 @@ News
 <br />
 
 Selected publication
-
-<sup>*</sup> co-first author;&nbsp;&nbsp;<sup>#</sup> corresponding author
-
 =====
 Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation<br />
-Shenglai Zeng<sup>*</sup>, Jiankun Zhang<sup>*</sup>, <b>Kai Guo<sup>#</sup></b>, Xinnan Dai, Hui Liu, Jiliang Tang, Yi Chang.<br />
-<i>ICML, 2026</i><br />
+Shenglai Zeng*, Jiankun Zhang*, <b>Kai Guo</b>, Xinnan Dai, Hui Liu, Jiliang Tang, Yi Chang.<br />	
+<i>ICML, 2026 </i><br />
 
 When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression<br />
-Xinnan Dai, Kai Yang, Cheng Luo, Shenglai Zeng, <b>Kai Guo<sup>#</sup></b>, Jiliang Tang.<br />
-<i>ICML, 2026</i><br />
+Xinnan Dai, Kai Yang, Cheng Luo, Shenglai Zeng, <b>Kai Guo</b>, Jiliang Tang.<br />	
+<i>ICML, 2026 </i><br />
 
 Attn-GS: Attention-Guided Context Compression for Efficient Personalized LLMs<br />
-Shenglai Zeng, Tianqi Zheng, Chuan Tian, Dante Everaert, Yau-Shian Wang, Yupin Huang, Michael J. Morais, Rohit Patki, Jinjin Tian, Xinnan Dai, <b>Kai Guo<sup>#</sup></b>, Monica Xiao Cheng, Hui Liu.<br />
-<i>ACL, 2026</i><br />
+Shenglai Zeng, Tianqi Zheng, Chuan Tian, Dante Everaert, Yau-Shian Wang, Yupin Huang, Michael J. Morais, Rohit Patki, Jinjin Tian, Xinnan Dai, <b>Kai Guo</b>, Monica Xiao Cheng, Hui Liu.<br />	
+<i>ACL, 2026 (Corresponding Author)</i><br />
 
 Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs<br />
 Haoyu Han, <b>Kai Guo</b>, Harry Shomer, Yu Wang, Yucheng Chu, Hang Li, Li Ma, Jiliang Tang.<br />	

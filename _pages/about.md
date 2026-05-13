@@ -99,44 +99,44 @@ News
   [*] indicates equal contribution &nbsp;&nbsp; [#] indicates corresponding author
 </p>
 
-Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation<br />
+<strong>Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation</strong><br />
 Shenglai Zeng\*, Jiankun Zhang\*, <b>Kai Guo<sup>#</sup></b>, Xinnan Dai, Hui Liu, Jiliang Tang, Yi Chang<sup>#</sup>.<br />
 <i>ICML, 2026</i><br />
 
-When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression<br />
+<strong>When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression</strong><br />
 Xinnan Dai, Kai Yang, Cheng Luo, Shenglai Zeng, <b>Kai Guo<sup>#</sup></b>, Jiliang Tang.<br />
 <i>ICML, 2026</i><br />
 
-Attn-GS: Attention-Guided Context Compression for Efficient Personalized LLMs<br />
+<strong>Attn-GS: Attention-Guided Context Compression for Efficient Personalized LLMs</strong><br />
 Shenglai Zeng, Tianqi Zheng, Chuan Tian, Dante Everaert, Yau-Shian Wang, Yupin Huang, Michael J. Morais, Rohit Patki, Jinjin Tian, Xinnan Dai, <b>Kai Guo<sup>#</sup></b>, Monica Xiao Cheng, Hui Liu.<br />
 <i>ACL, 2026</i><br />
 
-Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs<br />
+<strong>Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs</strong><br />
 Haoyu Han, <b>Kai Guo<sup>#</sup></b>, Harry Shomer, Yu Wang, Yucheng Chu, Hang Li, <b>Li Ma<sup>#</sup></b>, Jiliang Tang.<br />	
 <i>WWW, 2026 </i><br />
 
-From Sequence to Structure: Uncovering Substructure
-Reasoning in Transformers<br />
+<strong>From Sequence to Structure: Uncovering Substructure
+Reasoning in Transformers</strong><br />
 Xinnan Dai, Kai Yang, Jay Revolinsky, <b>Kai Guo<sup>#</sup></b>, Aoran Wang, Bohang Zhang, Jiliang Tang.<br />	
 <i>NeurIPS, 2025 </i><br />
 
-Empowering GraphRAG with Knowledge Filtering and Integration<br />
+<strong>Empowering GraphRAG with Knowledge Filtering and Integration</strong><br />
 <b>Kai Guo</b>, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang.<br />	
 <i>EMNLP, 2025</i><br />
 
-Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach<br />
+<strong>Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach</strong><br />
 Shenglai Zeng, Pengfei He, <b>Kai Guo<sup>#</sup></b>, Tianqi Zheng, Hanqing Lu, Yue Xing, Hui Liu.<br />	
 <i>ACL, 2025 </i><br /> 
 
-Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective<br />
+<strong>Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective</strong><br />
 <b>Kai Guo</b>, Hongzhi Wen, Wei Jin, Yaming Guo, Jiliang Tang, Yi Chang.<br />		
 <i>KDD, 2024.</i><br />
 
-Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships<br />
+<strong>Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships</strong><br />
 Yaming Guo\*, <b>Kai Guo\*</b>, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
 <i>ICML, 2023</i><br />
 
-Orthogonal graph neural networks<br />
+<strong>Orthogonal graph neural networks</strong><br />
 <b>Kai Guo</b>, Kaixiong Zhou, Xia Hu, Yu Li, Yi Chang, Xin Wang.<br />		
 <i>AAAI, 2022 (Oral)</i><br />
 

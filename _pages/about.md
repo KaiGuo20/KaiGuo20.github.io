@@ -100,7 +100,7 @@ News
 </p>
 
 Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation<br />
-Shenglai Zeng*, Jiankun Zhang*, <b>Kai Guo<sup>#</sup></b>, Xinnan Dai, Hui Liu, Jiliang Tang, Yi Chang.<br />
+Shenglai Zeng\*, Jiankun Zhang\*, <b>Kai Guo<sup>#</sup></b>, Xinnan Dai, Hui Liu, Jiliang Tang, Yi Chang<sup>#</sup>.<br />
 <i>ICML, 2026</i><br />
 
 When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression<br />
@@ -133,7 +133,7 @@ Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspe
 <i>KDD, 2024.</i><br />
 
 Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships<br />
-Yaming Guo*, <b>Kai Guo*</b>, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
+Yaming Guo\*, <b>Kai Guo\*</b>, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
 <i>ICML, 2023</i><br />
 
 Orthogonal graph neural networks<br />

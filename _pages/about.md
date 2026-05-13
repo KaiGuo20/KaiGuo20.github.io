@@ -91,7 +91,7 @@ News
 
 <br />
 
-Selected publication <sup>*</sup><sup>#</sup>
+Selected publication
 
 <sup>*</sup> co-first author;&nbsp;&nbsp;<sup>#</sup> corresponding author
 

@@ -117,7 +117,7 @@ Haoyu Han, <b>Kai Guo<sup>#</sup></b>, Harry Shomer, Yu Wang, Yucheng Chu, Hang 
 
 From Sequence to Structure: Uncovering Substructure
 Reasoning in Transformers<br />
-Xinnan Dai<sup>#</sup>, Kai Yang, Jay Revolinsky, <b>Kai Guo<sup>#</sup></b>, Aoran Wang, Bohang Zhang, Jiliang Tang.<br />	
+Xinnan Dai\*, Kai Yang\*, Jay Revolinsky, <b>Kai Guo<sup>#</sup></b>, Aoran Wang, Bohang Zhang, Jiliang Tang.<br />	
 <i>NeurIPS, 2025 </i><br />
 
 Empowering GraphRAG with Knowledge Filtering and Integration<br />

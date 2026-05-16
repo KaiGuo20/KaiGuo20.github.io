@@ -34,6 +34,8 @@ My research centers on Graph Learning, while also exploring Information Retrieva
 
 News
 =====
+**May. 2026:** Our paper "FWhy Retrieval-Augmented Generation Fails: A Graph Perspective" is accepted by KDD 2026
+
 **Mar. 2026:** Our paper "Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation" is accepted by ICML 2026
 
 **Mar. 2026:** Our paper "When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression" is accepted by ICML 2026
@@ -98,6 +100,10 @@ News
 <p style="margin-top: 0; font-size: 0.95rem;">
   [*] indicates equal contribution &nbsp;&nbsp; [#] indicates corresponding author
 </p>
+
+Why Retrieval-Augmented Generation Fails: A Graph Perspective<br />
+<b>Kai Guo</b>, Xinnan Dai, Zhibo Zhang, Nuohan Lin, Shenglai Zeng, Jie Ren, Haoyu Han, Jiliang Tang.<br />		
+<i>KDD, 2026 </i><br />
 
 Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation<br />
 Shenglai Zeng\*, Jiankun Zhang\*, <b>Kai Guo<sup>#</sup></b>, Xinnan Dai, Hui Liu, Jiliang Tang, Yi Chang<sup>#</sup>.<br />

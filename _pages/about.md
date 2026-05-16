@@ -34,7 +34,7 @@ My research centers on Graph Learning, while also exploring Information Retrieva
 
 News
 =====
-**May. 2026:** Our paper "FWhy Retrieval-Augmented Generation Fails: A Graph Perspective" is accepted by KDD 2026
+**May. 2026:** Our paper "Why Retrieval-Augmented Generation Fails: A Graph Perspective" is accepted by KDD 2026
 
 **Mar. 2026:** Our paper "Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation" is accepted by ICML 2026
 

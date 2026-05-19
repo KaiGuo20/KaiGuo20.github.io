@@ -36,9 +36,9 @@ News
 =====
 **May. 2026:** Our paper "Why Retrieval-Augmented Generation Fails: A Graph Perspective" is accepted by KDD 2026
 
-**Mar. 2026:** Our paper "Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation" is accepted by ICML 2026
+**May. 2026:** Our paper "Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation" is accepted by ICML 2026
 
-**Mar. 2026:** Our paper "When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression" is accepted by ICML 2026
+**May. 2026:** Our paper "When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression" is accepted by ICML 2026
 
 **Apr. 2026:** Our paper "Attn-GS: Attention-Guided Context Compression for Efficient Personalized LLMs" is accepted by the ACL 2026 Main Conference!
 

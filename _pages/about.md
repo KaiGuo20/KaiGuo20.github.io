@@ -34,6 +34,8 @@ My research centers on Graph Learning, while also exploring Information Retrieva
 
 News
 =====
+**Aug. 2026:** Our paper "Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG” is accepted to EMNLP 2026 Main Conference
+
 **May. 2026:** Our paper "Why Retrieval-Augmented Generation Fails: A Graph Perspective" is accepted by KDD 2026
 
 **May. 2026:** Our paper "Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation" is accepted by ICML 2026
@@ -100,6 +102,10 @@ News
 <p style="margin-top: 0; font-size: 0.95rem;">
   [*] indicates equal contribution &nbsp;&nbsp; [#] indicates corresponding author
 </p>
+
+Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG<br />
+<b>Kai Guo</b>, Xinnan Dai, Shenglai Zeng, Harry Shomer, Haoyu Han, Yu Wang, Hui Liu.<br />		
+<i>EMNLP, 2026 </i><br />
 
 Why Retrieval-Augmented Generation Fails: A Graph Perspective<br />
 <b>Kai Guo</b>, Xinnan Dai, Zhibo Zhang, Nuohan Lin, Shenglai Zeng, Jie Ren, Haoyu Han, Jiliang Tang.<br />		

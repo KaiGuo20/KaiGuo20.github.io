@@ -34,6 +34,8 @@ My research centers on Graph Learning, while also exploring Information Retrieva
 
 News
 =====
+**Sep. 2026:** Our paper "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline" is accepted to IJCNLP-AACL 2026 (main)
+
 **Aug. 2026:** Our paper "Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG” is accepted to EMNLP 2026 Main Conference
 
 **May. 2026:** Our paper "Why Retrieval-Augmented Generation Fails: A Graph Perspective" is accepted by KDD 2026

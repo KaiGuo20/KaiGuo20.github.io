@@ -109,7 +109,7 @@ News
 
 Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension<br />
 Shenglai Zeng, Qirui Wang, <b>Kai Guo</b>, Xinnan Dai, Xianxuan Long, Hui Liu.<br />		
-<i>EMNLP, 2026 </i><br />
+<i>NeurIPS, 2026 </i><br />
 
 Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG<br />
 <b>Kai Guo</b>, Xinnan Dai, Shenglai Zeng, Harry Shomer, Haoyu Han, Yu Wang, Hui Liu.<br />		

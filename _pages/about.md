@@ -34,6 +34,8 @@ My research centers on Graph Learning, while also exploring Information Retrieva
 
 News
 =====
+**Sep. 2026:** Our paper "Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension" is accepted to NeurIPS 2026
+
 **Sep. 2026:** Our paper "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline" is accepted to IJCNLP-AACL 2026 (main)
 
 **Aug. 2026:** Our paper "Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG” is accepted to EMNLP 2026 Main Conference
@@ -104,6 +106,10 @@ News
 <p style="margin-top: 0; font-size: 0.95rem;">
   [*] indicates equal contribution &nbsp;&nbsp; [#] indicates corresponding author
 </p>
+
+Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension<br />
+Shenglai Zeng, Qirui Wang, <b>Kai Guo</b>, Xinnan Dai, Xianxuan Long, Hui Liu.<br />		
+<i>EMNLP, 2026 </i><br />
 
 Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG<br />
 <b>Kai Guo</b>, Xinnan Dai, Shenglai Zeng, Harry Shomer, Haoyu Han, Yu Wang, Hui Liu.<br />		

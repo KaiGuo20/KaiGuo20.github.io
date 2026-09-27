@@ -34,6 +34,8 @@ My research centers on Graph Learning, while also exploring Information Retrieva
 
 News
 =====
+
+**Sep. 2026:** Invited to serve as an Area Chair for ICLR 2027
 **Sep. 2026:** Our paper "Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension" is accepted to NeurIPS 2026
 
 **Sep. 2026:** Our paper "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline" is accepted to IJCNLP-AACL 2026 (main)

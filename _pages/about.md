@@ -59,7 +59,7 @@ News
 
 
 <details>
-  <summary><b>Show news before 2025</b></summary>
+  <summary><b>More News</b></summary>
   <div markdown="1">
 
 **Dec. 2025:** Our paper “A bioinspired neuromorphic tactile system: Merging MXene nanosheet sensors and MXene quantum dots memristor” is accepted by Nano Research! [[pdf]](https://www.sciopen.com/article/10.26599/NR.2026.94908337)

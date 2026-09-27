@@ -57,6 +57,11 @@ News
 
 **Jan. 2026:** Our paper “Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs” is accepted by WWW! [[pdf]](https://arxiv.org/pdf/2510.07484)
 
+
+<details>
+  <summary><b>Show news before 2025</b></summary>
+  <div markdown="1">
+
 **Dec. 2025:** Our paper “A bioinspired neuromorphic tactile system: Merging MXene nanosheet sensors and MXene quantum dots memristor” is accepted by Nano Research! [[pdf]](https://www.sciopen.com/article/10.26599/NR.2026.94908337)
 
 **Oct. 2025:** New preprint! - “Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs” [[pdf]](https://arxiv.org/pdf/2510.07484)
@@ -82,10 +87,6 @@ News
 **Feb. 2025:** New preprint studying the effectiveness of RAG vs. GraphRAG [[pdf]](https://arxiv.org/pdf/2502.11371)
 
 **Jan. 2025:** New survey on Retrieval-Augmented Generation (RAG) with Graphs [[pdf]](https://arxiv.org/pdf/2501.00309)
-
-<details>
-  <summary><b>Show news before 2025</b></summary>
-  <div markdown="1">
 
 **Jul. 2024:** New preprint - "Learning on Graphs with Large Language Models (LLMs): A Deep Dive into Model Robustness" [[pdf]](https://arxiv.org/pdf/2407.12068)
 

@@ -43,6 +43,8 @@ News
 
 **Aug. 2026:** Our paper "Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG” is accepted to EMNLP 2026 Main Conference
 
+**May. 2026:** Our paper RAG vs. GraphRAG: A Systematic Evaluation and Key Insights is accepted by KDD 2026 Datasets and Benchmarks Track
+
 **May. 2026:** Our paper "Why Retrieval-Augmented Generation Fails: A Graph Perspective" is accepted by KDD 2026
 
 **May. 2026:** Our paper "Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation" is accepted by ICML 2026

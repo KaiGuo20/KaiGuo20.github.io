@@ -109,7 +109,7 @@ Why Retrieval-Augmented Generation Fails: A Graph Perspective<br />
 <i>KDD, 2026 </i><br />
 
 Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation<br />
-Shenglai Zeng\*, Jiankun Zhang\*, <b>Kai Guo<sup>†</sup></b>, Xinnan Dai, Hui Liu, Jiliang Tang, Yi Chang<sup>#</sup>.<br />
+Shenglai Zeng\*, Jiankun Zhang\*, <b>Kai Guo<sup>†</sup></b>, Xinnan Dai, Hui Liu, Jiliang Tang, Yi Chang<sup>†</sup>.<br />
 <i>ICML, 2026</i><br />
 
 When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression<br />

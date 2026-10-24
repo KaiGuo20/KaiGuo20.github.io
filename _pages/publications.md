@@ -73,7 +73,7 @@ author_profile: true
   <li>
     Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension
     [<a href="https://arxiv.org/abs/2606.12898">paper</a>]<br />
-    Shenglai Zeng, Qirui Wang, <b>Kai Guo<sup>#</sup></b>, Xinnan Dai, Xianxuan Long, Hui Liu.<br />
+    Shenglai Zeng, Qirui Wang, <b>Kai Guo<sup>†</sup></b>, Xinnan Dai, Xianxuan Long, Hui Liu.<br />
     <i>NeurIPS, 2026</i>
   </li>
   <li>

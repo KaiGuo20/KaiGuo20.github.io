@@ -97,7 +97,7 @@ My research centers on Graph Learning, while also exploring Information Retrieva
 </p>
 
 Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension<br />
-Shenglai Zeng, Qirui Wang, <b>Kai Guo</b>, Xinnan Dai, Xianxuan Long, Hui Liu.<br />		
+Shenglai Zeng, Qirui Wang, <b>Kai Guo<sup>#</sup></b>, Xinnan Dai, Xianxuan Long, Hui Liu.<br />		
 <i>NeurIPS, 2026 </i><br />
 
 Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG<br />

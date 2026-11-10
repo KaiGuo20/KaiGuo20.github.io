@@ -120,4 +120,48 @@
 {% endif %}
     </ul>
   </div>
+
+  <!-- Visitor globe is a dashboard link, not a public visitor map. -->
+  <div class="visitor-globe">
+    <a class="visitor-globe__link" href="https://statcounter.com/login/" target="_blank" rel="noopener noreferrer" aria-label="Open private visitor statistics (owner sign-in required)">
+      <svg class="visitor-globe__earth" viewBox="0 0 160 160" aria-hidden="true" focusable="false">
+        <defs>
+          <radialGradient id="visitor-ocean" cx="35%" cy="28%" r="75%"><stop offset="0" stop-color="#eff9ff"/><stop offset=".65" stop-color="#bad9ea"/><stop offset="1" stop-color="#789dbb"/></radialGradient>
+          <radialGradient id="visitor-shade" cx="30%" cy="25%" r="80%"><stop offset=".45" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#1f4667" stop-opacity=".3"/></radialGradient>
+          <clipPath id="visitor-sphere"><circle cx="80" cy="77" r="65"/></clipPath>
+          <g id="visitor-land" fill="#779e96" stroke="#f0f8fa" stroke-width=".6" stroke-linejoin="round">
+            <path d="M8 34L22 22 39 23 48 29 60 27 67 36 58 44 49 45 48 55 39 61 32 74 25 69 22 59 13 52Z M24 76L34 78 43 90 42 102 35 116 31 129 25 120 24 105 19 92Z M54 16L66 14 71 22 65 31 58 29Z"/>
+            <path d="M79 40L89 31 98 35 104 30 116 29 128 34 137 29 149 38 155 48 144 54 139 66 128 67 123 77 115 72 109 61 101 56 96 60 90 53 81 55 76 48Z M81 58L95 56 105 65 109 78 100 91 96 106 86 112 80 97 75 83 70 74 73 64Z M125 104L138 98 149 106 146 117 133 120 124 114Z M146 77L152 85 151 94 146 89Z"/>
+          </g>
+        </defs>
+        <ellipse cx="80" cy="151" rx="43" ry="4" fill="#d9e2e9" opacity=".5"/>
+        <circle cx="80" cy="77" r="69" fill="none" stroke="#e5edf2"/>
+        <circle cx="80" cy="77" r="65" fill="url(#visitor-ocean)"/>
+        <g clip-path="url(#visitor-sphere)">
+          <g class="visitor-globe__continents"><use href="#visitor-land"/><use href="#visitor-land" x="160"/></g>
+          <g fill="none" stroke="#fff" stroke-width=".65" opacity=".4"><ellipse cx="80" cy="77" rx="24" ry="65"/><ellipse cx="80" cy="77" rx="49" ry="65"/><ellipse cx="80" cy="77" rx="65" ry="24"/><ellipse cx="80" cy="77" rx="65" ry="49"/><path d="M15 77H145M80 12V142"/></g>
+          <circle cx="80" cy="77" r="65" fill="url(#visitor-shade)"/>
+        </g>
+        <circle cx="80" cy="77" r="65" fill="none" stroke="#9bb8ca" stroke-width=".8"/>
+      </svg>
+      <span class="visitor-globe__title">Global visitors</span>
+      <span class="visitor-globe__caption"><i class="fas fa-lock" aria-hidden="true"></i> Private dashboard</span>
+    </a>
+  </div>
+  <!-- Statcounter: install the owner's invisible tracking code after account setup.
+       Keep Public Stats disabled. Never place report data or account credentials here. -->
+  <style>
+    .visitor-globe { clear: both; max-width: 180px; margin: 24px 0 0; padding-top: 17px; border-top: 1px solid #edf0f3; text-align: center; }
+    .visitor-globe__link { display: block; border-radius: 8px; color: #687888; text-decoration: none !important; }
+    .visitor-globe__link:hover { color: #284c68; }
+    .visitor-globe__link:focus-visible { outline: 2px solid #7196b2; outline-offset: 5px; }
+    .visitor-globe__earth { display: block; width: 148px; height: 148px; margin: 0 auto 4px; }
+    .visitor-globe__continents { animation: visitor-earth-turn 38s linear infinite; }
+    .visitor-globe__title { display: block; font-size: 12px; font-weight: 600; letter-spacing: .04em; }
+    .visitor-globe__caption { display: block; margin-top: 5px; font-size: 10px; color: #8794a1; }
+    .visitor-globe__caption i { margin-right: 3px; font-size: 9px; }
+    @keyframes visitor-earth-turn { from { transform: translateX(0); } to { transform: translateX(-160px); } }
+    @media (prefers-reduced-motion: reduce) { .visitor-globe__continents { animation: none; } }
+    @media (max-width: 1023px) { .visitor-globe { display: none; } }
+  </style>
 </div>

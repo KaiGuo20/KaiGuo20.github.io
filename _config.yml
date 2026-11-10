@@ -73,11 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google4" # false (default), "google", "google-universal", "google4", "custom"
   google:
-    tracking_id          :
-
-
+    tracking_id          : G-K72J5MZ9H5
 # Site Author
 author:
   name             : "Kai Guo"

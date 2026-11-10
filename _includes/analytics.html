@@ -5,6 +5,19 @@
   {% include /analytics-providers/google.html %}
 {% when "google-universal" %}
   {% include /analytics-providers/google-universal.html %}
+{% when "google4" %}
+  {% if site.analytics.google.tracking_id %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.tracking_id | url_encode }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', {{ site.analytics.google.tracking_id | jsonify }}, {
+      'allow_google_signals': false,
+      'allow_ad_personalization_signals': false
+    });
+  </script>
+  {% endif %}
 {% when "custom" %}
   {% include /analytics-providers/custom.html %}
 {% endcase %}
